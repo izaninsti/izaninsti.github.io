@@ -1,0 +1,31 @@
+body {
+	font-family: "Times New Roman", Coronetscript, cursive;
+	background-color: #41A317;}
+
+h1 {
+	text-align: center;
+	font-family: Coronetscript, cursive; 
+	color: #7917A3;}
+
+h2 {
+	text-align: right;}
+
+
+p {
+	margin-left: 80px;
+	font-size: 14pt;
+	color:   #800000;
+	font-family: Coronetscript, cursive;}
+
+a:link {
+	color: blue:}
+
+a:visited {
+	color: purple;}
+
+img {
+	display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+    	width: 80%;
+	border-radius: 8px;}
